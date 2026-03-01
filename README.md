@@ -16,3 +16,21 @@ Outcomes:
 5. PG amenities (food, AC, Room Services)
 6. PG ratings
 7. PG contact Info
+
+PROBLEMS IT MUST SOLVE:
+1. Show me PGs I can afford
+2. Which PG is safest and most reliable?
+3. Which PG is closest to my workplace?
+4. Which areas are cheapest?
+5. Give me top 5 best PGs overall
+                      ***********************************************
+LIFECYCLE:
+1. Source: Where and how we collect data.
+2. Ingestion: How we bring that data into our systems.
+3. Storage: How we store data efficiently and securely.
+4. Processing: How we clean, enrich, and transform data.
+5. Service: How we make processed data available for use.
+6. Consumer: How analytics, AI/ML, and operational tools use this data to drive decisions.
+
+REFERDENCES:
+1. https://rathi-ankit.medium.com/data-engineering-turning-raw-data-into-actionable-insights-4a0a436b0eec
